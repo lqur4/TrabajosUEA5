@@ -1,0 +1,17 @@
+/*fondo*/
+body{background-color: Brown;}
+
+/*color de texto*/
+p{color: Chartreuse;}
+
+/*vincular a index con link en head*/
+
+/*selector de clase con color de letra y tamaño de letra, segundo parrafo class="* (entre comillas)*/
+
+.receta {color: DarkSeaGreen; font-size: 60px;}
+
+h1{color:rgb(127, 127, 127, 0.5); text-align: center;}
+
+h2{color:#FFFF00; text-align: center;}
+
+h3{color: hsla(0, 100, 50)}

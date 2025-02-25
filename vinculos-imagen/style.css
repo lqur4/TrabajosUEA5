@@ -1,0 +1,15 @@
+body {
+    background-color:thistle;
+}
+
+
+p {
+    color: black;
+    font-size: 18px; 
+    text-align: center;
+}
+
+/*class*/
+.body2{
+    background-color:#d6dad5;
+}

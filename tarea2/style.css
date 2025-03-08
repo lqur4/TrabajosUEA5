@@ -4,6 +4,7 @@ body {
 p{
     margin: 15px;
     text-align: justify;
+    color: rgb(0, 56, 105);
 }
 
 div{
@@ -11,6 +12,6 @@ div{
 }
 
 h1 {
-    color: rgb(255, 255, 255);
+    color: rgb(10, 38, 65);
     text-align: center;
 }

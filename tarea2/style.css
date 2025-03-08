@@ -1,7 +1,16 @@
+body {
+    background-color:#A18B55;
+}
 p{
-    margin: 10px;
+    margin: 15px;
+    text-align: justify;
 }
 
 div{
-    background-color: cadetblue;
+    background-color: #E0C33F;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
 }

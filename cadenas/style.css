@@ -1,0 +1,4 @@
+/*Selector de body fondo y p de color tamaño font*/
+
+body{background-color: rgb(231, 211, 155);}
+p {color: brown; font-size: 25px;margin: 10px;}

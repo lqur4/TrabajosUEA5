@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 60%;
+    height: auto;
+}
+
+.izquierda{
+    background-color: rgb(226, 142, 31); 
+    font-size: 20xp;
+    padding: 10xp;
+    float: left;
+    height: 720px;
+    width: 33%;;
+}
+
+.centro{
+    background-color: rgb(165, 218, 41);
+    font-size: 20xp;
+    padding: 10xp;
+    float: left;
+    height: 720px;
+    width: 33%;;
+}
+
+.derecha{
+    background-color: rgb(45, 67, 141); 
+    font-size: 20xp;
+    padding: 10xp;
+    float: left;
+    height: 720px;
+    width: 33%;;
+}
+
+@media screen and (max-width:800px) {
+    .izquierda, .centro, .derecha {
+    width: 100%;
+}
+}
